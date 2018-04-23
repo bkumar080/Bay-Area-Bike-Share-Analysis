@@ -16,7 +16,7 @@ Install Anaconda and Jupyter Notebook.
 
 ## Code
 
-Run the below to see the file in a Jupyter Notebook.
+Run the below code to see the file in a Jupyter Notebook.
 
 `$ cd Bay-Area-Bike-Share-Analysis`
 
